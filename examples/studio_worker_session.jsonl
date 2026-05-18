@@ -1,0 +1,4 @@
+{"type":"start_study","study_id":"demo","optimizer":{"algorithm":"random_search","max_evaluations":2,"seed":7},"parameters":[{"id":"tax_rate","name":"Tax rate","bounds":{"min":0.0,"max":1.0},"initial":0.2,"scale":"linear","domain":{"kind":"continuous"}}]}
+{"type":"trial_result","study_id":"demo","evaluation":1,"loss":0.25,"metadata":{"run_id":1}}
+{"type":"trial_result","study_id":"demo","evaluation":2,"loss":0.05,"metadata":{"run_id":2}}
+
